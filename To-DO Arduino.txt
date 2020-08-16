@@ -1,0 +1,3 @@
+Bottone on/off  e/o Bottone Stop/Riprendi
+migliorare variazione velocita se si puo
+aggiungere condensatore per revitare che balti il tutto (100 microfarad)
